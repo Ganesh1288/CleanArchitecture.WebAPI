@@ -6,7 +6,6 @@ Clean Architecture Application Design from Scratch using Dotnet Core 5 WebApi an
 ## Technologies
 - [ASP.NET Core 6](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-6.0?view=aspnetcore-6.0)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
-- [Clean Architecture]()
 - [Swashbuckle.AspNetCore.Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 - CQRS Design Pattern - Command Query Responsibility Segregation
 - [Fluent Validation](https://fluentvalidation.net/)
